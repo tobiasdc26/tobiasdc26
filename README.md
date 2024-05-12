@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tobiasdc26
-- 👀 I’m interested in videogames, sci-fi books and communism
-- 🌱 I’m currently learning Web Design and want to learn C and Phyton in the future
-- 😄 Pronouns: he/him
-- ⚡ I speak english as a second language and know how to speak a bit of german... only a bit
+21 y/o  -  he/him
+Starting to learn about code, while studying computer engineering at Universidad Nacional del Sur (Bahia Blanca).
+Spanish is my first lenguage, but  I can speak fluent english, and I'm also learning German in my free time, but not very good at it yet :')
+I like videogames, reading and cats.
 
 <!---
 tobiasdc26/tobiasdc26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
